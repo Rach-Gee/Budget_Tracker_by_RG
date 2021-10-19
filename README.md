@@ -21,7 +21,6 @@ Welcome to your personal budget tracker! This app was deployed to help you keep 
 ## Installation
        
 To utalise this app navigate to https://murmuring-citadel-16789.herokuapp.com/.
-![image](https://user-images.githubusercontent.com/83891242/137578591-a41e6252-f981-42ee-b0ec-8be16af6937e.png)
        
 ## Usage
        
